@@ -12,21 +12,21 @@ So we will use Activity, Subject and Features as part of descriptive variable na
 
 **The transformed datasets**
 
-# Merging the training and the test sets to create one data set
+*Merging the training and the test sets to create one data set*
 1) Data_Com.R
 
-# Extracts only the measurements on the mean and standard deviation for each measurement
+*Extracts only the measurements on the mean and standard deviation for each measurement*
 1) DATA.R
 
-# Uses descriptive activity names to name the activities in the data set
+*Uses descriptive activity names to name the activities in the data set*
 1) DATA_Descriptive2.R
 
-# Appropriately labels the data set with descriptive variable names
+*Appropriately labels the data set with descriptive variable names*
 1) DATA_Descriptive2.R
 
-# From the data set in step 4, creating a second, independent tidy data set with the average of each variable for each subject and each activity
+*From the data set in step 4, creating a second, independent tidy data set with the average of each variable for each subject and each activity*
 1) Data2Tidy.R
 
-# Writing a second tidy data in text file
+*Writing a second tidy data in text file*
 1) TidyDataset.txt
 
