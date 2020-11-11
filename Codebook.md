@@ -30,3 +30,4 @@ So we will use Activity, Subject and Features as part of descriptive variable na
 *Writing a second tidy data in text file*
 - TidyDataset.txt
 
+
